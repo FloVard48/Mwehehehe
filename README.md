@@ -13,6 +13,18 @@
     </style>
   </head>
   <body>
-    
+    <div id="terminal">
+      <p>> Mengakses database rahasia...</p>
+      <p>> Mengunduh data "alien Iwaq"... [10%]</p>
+      <p>> Mengunduh data "alien Iwaq"... [45%]</p>
+      <p>> Mengunduh data "alien Iwaq"... [95%]</p>
+      <p>> Mengunduh data "alien Iwaq"... [100%]</p>
+      <p>> ERROR! Data tydak akurat alias zonk</p>
+      <p>> Memulai ulang ponsel Anda...</p>
+    </div>
+    <div id="scary text">
+      <h1>Hayoloo >:]</h1>
+      <p style="color: white;">Makasih buat idenya wahai Kakel yang baik hati tapi nerd muehehehhehe >:3</p>
+      <p style="font-size: 0.5em;"
   </body>
 </html>
