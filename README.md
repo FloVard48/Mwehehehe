@@ -25,6 +25,15 @@
     <div id="scary text">
       <h1>Hayoloo >:]</h1>
       <p style="color: white;">Makasih buat idenya wahai Kakel yang baik hati tapi nerd muehehehhehe >:3</p>
-      <p style="font-size: 0.5em;"
+      <p style="font-size: 0.5em;">(Ulun memang anak informatika Kak (kelas Ulun IPA + informatika) >:])</p>
+    </div>
+    <script>
+      // Efek transisi setelah transisi 
+      setTimeout(() => {
+        document.getElementById('terminal').style.display = 'none';
+        document.getElementById('scary-text').style.display = 'block';
+        // Mainkan suara ketawa pelan
+      }, 4000);
+    </script>
   </body>
 </html>
